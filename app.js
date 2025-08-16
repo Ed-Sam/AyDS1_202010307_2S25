@@ -5,7 +5,7 @@ const PORT = 3000;
 app.get('/', (req, res) => {
     res.json({
         nombre: "Edwin Sam - 202010307", 
-        cancionFavorita: "Doberman - Deafheaven" 
+        albumfavorito: "Stare Into Death And Be Still - Ulcerate", 
     });
 });
 
