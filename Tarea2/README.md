@@ -61,11 +61,13 @@
 
 ---
 
-## 3. Actores
+## Actores
 
 - **Usuarios**: Usuario que compra productos.  
 - **Administrador**: Persona encargada de gestionar productos e inventario.  
 - **Proveedor**: Encargado de surtir productos.  
+- **Sistema de pago**: Pasarela de pago externa  
+- **Empresa de mensajería**: Servicio externo para gestionar envíos.  
 
 ---
 
